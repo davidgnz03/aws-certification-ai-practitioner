@@ -1,0 +1,1 @@
+# aws-certification-ai-practitioner
