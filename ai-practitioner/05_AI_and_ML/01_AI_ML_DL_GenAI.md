@@ -17,18 +17,19 @@ AI es un **Umbrella-term (término paraguas)** que abarca diversas técnicas y s
 ## Jerarquía dentro de la AI
 
 ```
-Generative AI
-└── Deep Learning
-└──── Machine Learning
-└────── Artificial Intelligence
+Artificial Intelligence (IA)
+└── Machine Learning (ML)
+     └── Deep Learning (DL)
+          └── Generative AI (GenAI)
 ```
 
 
 Cada nivel representa un subconjunto más especializado:
-- **Gen-AI:** Genera contenido nuevo (texto, imágenes, código, audio, etc.).
-- **DL:** Usa redes neuronales profundas para reconocer patrones complejos.
-- **ML:** Enseña a las máquinas a aprender de los datos.
 - **AI:** Cubre todo el espectro de la inteligencia artificial.
+- **ML:** Enseña a las máquinas a aprender de los datos.
+- **DL:** Usa redes neuronales profundas para reconocer patrones complejos.
+- **Gen-AI:** Genera contenido nuevo (texto, imágenes, código, audio, etc.).
+
 
 
 
